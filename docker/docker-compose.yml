@@ -1,0 +1,43 @@
+version: "3"
+
+services:
+  server:
+    #image: matanl2208/smart_home:server
+    image: server_db:latest
+    # image: server_db:my_user
+    ports:
+      - 8080:8080 
+    volumes:
+      - mySmartHome:/main/log
+    links:
+      - db
+    restart: always
+    
+
+  client:
+    image: matanl2208/smart_home:client
+    restart: always
+    depends_on:
+     - server
+    network_mode: service:server
+
+  db:
+    image: mysql/mysql-server:8.0
+    # command: --lower_case_table_names=0
+    # ports:
+    #  - "3306:33060" #host:container
+    volumes:
+     - database_mysql:/var/lib/mysql:rw
+     - /home/matanl/MyGit/Smart_home/database:/docker-entrypoint-initdb.d
+    environment: 
+      MYSQL_USER: 'root'
+      MYSQL_PASSWORD: 'password'
+      MYSQL_ROOT_PASSWORD: 'password'
+      MYSQL_DATABASE: 'smart_home_log'
+      
+volumes:
+  mySmartHome:
+    external: false
+  database_mysql:
+
+

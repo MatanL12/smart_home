@@ -1,0 +1,1104 @@
+Time: Sat Feb 18 10:46:44 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 83 
+
+Time: Sat Feb 18 10:46:45 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 51 
+
+Time: Sat Feb 18 10:46:46 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 86 
+
+Time: Sat Feb 18 10:46:47 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 73 
+
+Time: Sat Feb 18 10:46:48 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 88 
+
+Time: Sat Feb 18 10:46:49 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 17 
+
+Time: Sat Feb 18 10:46:50 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 79 
+
+Time: Sat Feb 18 10:46:51 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 83 
+
+Time: Sat Feb 18 10:46:52 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 69 
+
+Time: Sat Feb 18 10:46:53 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 64 
+
+Time: Sat Feb 18 10:46:54 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 63 
+
+Time: Sat Feb 18 10:46:55 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 18 
+
+Time: Sat Feb 18 10:46:56 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 20 
+
+Time: Sat Feb 18 10:46:57 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 93 
+
+Time: Sat Feb 18 10:46:58 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 37 
+
+Time: Sat Feb 18 10:46:59 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 77 
+
+Time: Sat Feb 18 10:47:00 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 35 
+
+Time: Sat Feb 18 10:47:01 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 69 
+
+Time: Sat Feb 18 10:47:02 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 17 
+
+Time: Sat Feb 18 10:47:03 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 10 
+
+Time: Sat Feb 18 10:47:04 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 18 
+
+Time: Sat Feb 18 10:47:05 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 97 
+
+Time: Sat Feb 18 10:47:06 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 27 
+
+Time: Sat Feb 18 10:47:07 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 73 
+
+Time: Sat Feb 18 10:47:08 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 37 
+
+Time: Sat Feb 18 10:47:09 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 6 
+
+Time: Sat Feb 18 10:47:10 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 59 
+
+Time: Sat Feb 18 10:47:11 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 4 
+
+Time: Sat Feb 18 10:47:12 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 96 
+
+Time: Sat Feb 18 10:47:13 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 99 
+
+Time: Sat Feb 18 10:47:14 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 39 
+
+Time: Sat Feb 18 10:47:15 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 64 
+
+Time: Sat Feb 18 10:47:16 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 82 
+
+Time: Sat Feb 18 10:47:17 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 54 
+
+Time: Sat Feb 18 10:47:18 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 61 
+
+Time: Sat Feb 18 10:47:19 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 1 
+
+Time: Sat Feb 18 10:47:20 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 37 
+
+Time: Sat Feb 18 10:47:21 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 27 
+
+Time: Sat Feb 18 10:47:22 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 39 
+
+Time: Sat Feb 18 10:47:23 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 77 
+
+Time: Sat Feb 18 10:47:24 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 25 
+
+Time: Sat Feb 18 10:47:25 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 20 
+
+Time: Sat Feb 18 10:47:26 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 82 
+
+Time: Sat Feb 18 10:47:27 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 0 
+
+Time: Sat Feb 18 10:47:28 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 2 
+
+Time: Sat Feb 18 10:47:29 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 14 
+
+Time: Sat Feb 18 10:47:30 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 61 
+
+Time: Sat Feb 18 10:47:31 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 70 
+
+Time: Sat Feb 18 10:47:32 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 37 
+
+Time: Sat Feb 18 10:47:33 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 30 
+
+Time: Sat Feb 18 10:47:34 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 56 
+
+Time: Sat Feb 18 10:47:35 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 22 
+
+Time: Sat Feb 18 10:47:36 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 38 
+
+Time: Sat Feb 18 10:47:37 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 86 
+
+Time: Sat Feb 18 10:47:38 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 96 
+
+Time: Sat Feb 18 10:47:39 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 82 
+
+Time: Sat Feb 18 10:47:40 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 9 
+
+Time: Sat Feb 18 10:47:41 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 61 
+
+Time: Sat Feb 18 10:47:42 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 13 
+
+Time: Sat Feb 18 10:47:43 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 8 
+
+Time: Sat Feb 18 10:47:44 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 37 
+
+Time: Sat Feb 18 10:47:45 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 78 
+
+Time: Sat Feb 18 10:47:46 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 33 
+
+Time: Sat Feb 18 10:47:47 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 24 
+
+Time: Sat Feb 18 10:47:48 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 92 
+
+Time: Sat Feb 18 10:47:49 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 72 
+
+Time: Sat Feb 18 10:47:50 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 41 
+
+Time: Sat Feb 18 10:47:51 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 19 
+
+Time: Sat Feb 18 10:47:52 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 86 
+
+Time: Sat Feb 18 10:47:53 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 25 
+
+Time: Sat Feb 18 10:47:54 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 4 
+
+Time: Sat Feb 18 10:47:55 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 67 
+
+Time: Sat Feb 18 10:47:56 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 63 
+
+Time: Sat Feb 18 10:47:57 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 2 
+
+Time: Sat Feb 18 10:47:58 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 45 
+
+Time: Sat Feb 18 10:47:59 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 66 
+
+Time: Sat Feb 18 10:48:00 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 4 
+
+Time: Sat Feb 18 10:48:01 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 26 
+
+Time: Sat Feb 18 10:48:02 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 3 
+
+Time: Sat Feb 18 10:48:03 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 46 
+
+Time: Sat Feb 18 10:48:04 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 87 
+
+Time: Sat Feb 18 10:48:05 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 17 
+
+Time: Sat Feb 18 10:48:06 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 41 
+
+Time: Sat Feb 18 10:48:07 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 35 
+
+Time: Sat Feb 18 10:48:08 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 30 
+
+Time: Sat Feb 18 10:48:09 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 8 
+
+Time: Sat Feb 18 10:48:10 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 5 
+
+Time: Sat Feb 18 10:48:11 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 97 
+
+Time: Sat Feb 18 10:48:12 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 59 
+
+Time: Sat Feb 18 10:48:13 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 81 
+
+Time: Sat Feb 18 10:48:14 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 88 
+
+Time: Sat Feb 18 10:48:15 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 15 
+
+Time: Sat Feb 18 10:48:16 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 73 
+
+Time: Sat Feb 18 10:48:17 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 0 
+
+Time: Sat Feb 18 10:48:18 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 14 
+
+Time: Sat Feb 18 10:48:19 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 21 
+
+Time: Sat Feb 18 10:48:20 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 61 
+
+Time: Sat Feb 18 10:48:21 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 12 
+
+Time: Sat Feb 18 10:48:22 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 39 
+
+Time: Sat Feb 18 10:48:23 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 97 
+
+Time: Sat Feb 18 10:48:24 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 75 
+
+Time: Sat Feb 18 10:48:25 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 46 
+
+Time: Sat Feb 18 10:48:26 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 23 
+
+Time: Sat Feb 18 10:48:27 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 53 
+
+Time: Sat Feb 18 10:48:28 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 67 
+
+Time: Sat Feb 18 10:48:29 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 97 
+
+Time: Sat Feb 18 10:48:30 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 38 
+
+Time: Sat Feb 18 10:48:31 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 16 
+
+Time: Sat Feb 18 10:48:32 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 14 
+
+Time: Sat Feb 18 10:48:33 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 74 
+
+Time: Sat Feb 18 10:48:34 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 76 
+
+Time: Sat Feb 18 10:48:35 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 47 
+
+Time: Sat Feb 18 10:48:36 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 84 
+
+Time: Sat Feb 18 10:48:37 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 12 
+
+Time: Sat Feb 18 10:48:38 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 79 
+
+Time: Sat Feb 18 10:48:39 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 23 
+
+Time: Sat Feb 18 10:48:40 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 77 
+
+Time: Sat Feb 18 10:48:41 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 93 
+
+Time: Sat Feb 18 10:48:42 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 63 
+
+Time: Sat Feb 18 10:48:43 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 83 
+
+Time: Sat Feb 18 10:48:44 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 24 
+
+Time: Sat Feb 18 10:48:45 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 96 
+
+Time: Sat Feb 18 10:48:46 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 95 
+
+Time: Sat Feb 18 10:48:47 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 83 
+
+Time: Sat Feb 18 10:48:48 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 49 
+
+Time: Sat Feb 18 10:48:49 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 36 
+
+Time: Sat Feb 18 10:48:50 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 73 
+
+Time: Sat Feb 18 10:48:51 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 2 
+
+Time: Sat Feb 18 10:48:52 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 39 
+
+Time: Sat Feb 18 10:48:53 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 95 
+
+Time: Sat Feb 18 10:48:54 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 91 
+
+Time: Sat Feb 18 10:48:55 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 30 
+
+Time: Sat Feb 18 10:48:56 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 67 
+
+Time: Sat Feb 18 10:48:57 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 33 
+
+Time: Sat Feb 18 10:48:58 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 16 
+
+Time: Sat Feb 18 10:48:59 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 25 
+
+Time: Sat Feb 18 10:49:00 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 30 
+
+Time: Sat Feb 18 10:49:01 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 2 
+
+Time: Sat Feb 18 10:49:02 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 93 
+
+Time: Sat Feb 18 10:49:03 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 24 
+
+Time: Sat Feb 18 10:49:04 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 4 
+
+Time: Sat Feb 18 10:49:05 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 63 
+
+Time: Sat Feb 18 10:49:06 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 57 
+
+Time: Sat Feb 18 10:49:07 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 17 
+
+Time: Sat Feb 18 10:49:08 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 26 
+
+Time: Sat Feb 18 10:49:09 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 84 
+
+Time: Sat Feb 18 10:49:10 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 62 
+
+Time: Sat Feb 18 10:49:11 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 9 
+
+Time: Sat Feb 18 10:49:12 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 23 
+
+Time: Sat Feb 18 10:49:13 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 94 
+
+Time: Sat Feb 18 10:49:14 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 80 
+
+Time: Sat Feb 18 10:49:15 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 45 
+
+Time: Sat Feb 18 10:49:16 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 81 
+
+Time: Sat Feb 18 10:49:17 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 15 
+
+Time: Sat Feb 18 10:49:18 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 59 
+
+Time: Sat Feb 18 10:49:19 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 99 
+
+Time: Sat Feb 18 10:49:20 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 23 
+
+Time: Sat Feb 18 10:49:21 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 47 
+
+Time: Sat Feb 18 10:49:22 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 83 
+
+Time: Sat Feb 18 10:49:23 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 37 
+
+Time: Sat Feb 18 10:49:24 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 38 
+
+Time: Sat Feb 18 10:49:25 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 53 
+
+Time: Sat Feb 18 10:49:26 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 78 
+
+Time: Sat Feb 18 10:49:27 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 73 
+
+Time: Sat Feb 18 10:49:28 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 47 
+
+Time: Sat Feb 18 10:49:29 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 53 
+
+Time: Sat Feb 18 10:49:30 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 2 
+
+Time: Sat Feb 18 10:49:31 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 16 
+
+Time: Sat Feb 18 10:49:32 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 73 
+
+Time: Sat Feb 18 10:49:33 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 29 
+
+Time: Sat Feb 18 10:49:34 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 45 
+
+Time: Sat Feb 18 10:49:35 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 8 
+
+Time: Sat Feb 18 10:49:36 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 70 
+
+Time: Sat Feb 18 10:49:37 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 14 
+
+Time: Sat Feb 18 10:49:38 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 2 
+
+Time: Sat Feb 18 10:49:39 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 26 
+
+Time: Sat Feb 18 10:49:40 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 66 
+
+Time: Sat Feb 18 10:49:41 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 22 
+
+Time: Sat Feb 18 10:49:42 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 81 
+
+Time: Sat Feb 18 10:49:43 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 18 
+
+Time: Sat Feb 18 10:49:44 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 95 
+
+Time: Sat Feb 18 10:49:45 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 27 
+
+Time: Sat Feb 18 10:49:46 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 46 
+
+Time: Sat Feb 18 10:49:47 2023
+Type: TEMP_LEVEL
+Floor: 1
+Room: room_1_a
+Payload: 76 
+
