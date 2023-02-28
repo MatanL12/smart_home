@@ -20,9 +20,7 @@ To get started, make sure you have Docker Engine and Docker Compose installed on
 Next, clone this repository, navigate in your terminal to the docker directory, and spin up the app by running `sudo docker compose up -d`. 
 
 ## Events Tracking
-In case all events are saved in a file, you can monitor them by running `sudo cat /var/lib/docker/volumes/docker_mySmartHome/_data/log.txt`.
-
-In case all events are saved in a database... TBD.
+You can monitor the events by running `sudo cat /var/lib/docker/volumes/docker_mySmartHome/_data/log.txt`.
 
 ## Adding Agents
 An agent is the software entity loaded by the server to represent an actual device. Each agent is implemented as a dynamic object (.SO) and will implement and expose the required interfaces in order to communicate with the server. All agents will be loaded at system startup according to a configuration file, and will communicate with their respective driver using a network protocol or through any other IPC mechanism.
